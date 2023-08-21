@@ -3,8 +3,13 @@ Welcome, new coder.
 Enter your code on line 7 to print 'Hello, World!' 
 to the console (the panel on the right)
 */
+x = 1;
+y = 2;
 
-console.log("Hello World!");
+
+console.log("Hello World!", "two messages same line");
+console.log('"Hello World! Quotes" ');
+console.log(x+y);
 
 /*  
 Next, PLAY! 
